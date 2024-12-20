@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Barbosa</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
-<img align="right" height="150" src="./assets/images/comguy.gif"  />
+<img align="right" height="150" src="./assets/images/jumping.gif"  />
 
 - 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan)
 - 🌱 I’m currently learning **Machine Learning, Reactjs, Flutter**
