@@ -7,6 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster](https://github.com/lightdarkmaster)
 - 📫 How to reach me **christian.barbosa05222001@gmail.com**
 - ⚡ Fun fact **I think I am Funny.**
+<img align="right" height="150" src="./assets/images/flying.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
