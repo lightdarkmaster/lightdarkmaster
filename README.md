@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lightdarkmaster&label=Profile%20views&color=0e75b6&style=flat" alt="lightdarkmaster" /> </p>
 
 <p align="left"> <a href="https://github.com/lightdarkmaster/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightdarkmaster" alt="lightdarkmaster" /></a> </p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 - 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan)
 
