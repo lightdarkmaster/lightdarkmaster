@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christian Barbosa</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
-<img align="right" height="150" src="./assets/images/dancing1.gif"  />
+<img align="right" height="250" src="./assets/images/dancing1.gif"  />
 
 - 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan)
 - 🌱 I’m currently learning **Machine Learning, Reactjs, Flutter**
 - 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster](https://github.com/lightdarkmaster)
 - 📫 How to reach me **christian.barbosa05222001@gmail.com**
 - ⚡ Fun fact **I think I am Funny.**
-<img align="right" height="150" src="./assets/images/dancing.gif"  />
+<img align="right" height="250" src="./assets/images/dancing.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
