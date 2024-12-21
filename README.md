@@ -4,7 +4,9 @@
 </p>
 <img align="right" height="350" src="./assets/images/dancing1.gif"  />
 
-- 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan)
+- 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan),
+[Taskify](https://github.com/lightdarkmaster/Taskify),
+[Facebook Dark Chrome Extension](https://github.com/lightdarkmaster/facebookDark_chrome_extension),
 - 🌱 I’m currently learning **Machine Learning, Reactjs, Flutter**
 - 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster](https://github.com/lightdarkmaster)
 - 📫 How to reach me **christian.barbosa05222001@gmail.com**
