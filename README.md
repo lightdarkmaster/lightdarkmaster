@@ -2,7 +2,6 @@
 <p align="center">
     <img src="https://github.com/lightdarkmaster/lightdarkmaster/blob/main/assets/images/my_banner.png" alt="Header Banner" />
 </p>
-<h3 align="center">A passionate developer from Philippines</h3>
 <img align="right" height="250" src="./assets/images/dancing1.gif"  />
 
 - 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan)
