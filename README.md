@@ -8,8 +8,8 @@
 [Taskify](https://github.com/lightdarkmaster/Taskify),
 [Facebook Dark Chrome Extension](https://github.com/lightdarkmaster/facebookDark_chrome_extension),
 [AI](https://github.com/lightdarkmaster/Artificial-Intelligence).
-- 🌱 I’m currently learning **Machine Learning, Reactjs, Flutter, Laravel**
 - 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster](https://github.com/lightdarkmaster)
+- 🌱 I’m currently learning **Machine Learning, Reactjs, Flutter, Laravel**
 - 📫 How to reach me **christian.barbosa05222001@gmail.com**
 - ⚡ Fun fact **I think I am Funny.**
 
