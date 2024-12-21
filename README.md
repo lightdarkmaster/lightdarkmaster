@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster/repogi](https://github.com/lightdarkmaster?tab=repositories)
 - 🌱 I’m currently learning **[Machine Learning](https://developers.google.com/machine-learning/crash-course), [Reactjs](https://react.dev/learn), [Flutter](https://docs.flutter.dev/get-started/learn-flutter) and [Laravel](https://laravel.com/docs/11.x)**
 - 📫 How to reach me **christian.barbosa05222001@gmail.com**
-- ⚡ Fun fact **I think I am Funny.**
+- ⚡ Fun fact **I think I am Funny and I Like Avocado**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
