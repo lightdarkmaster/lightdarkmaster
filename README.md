@@ -1,9 +1,8 @@
 <body style="background:black;">
 <p align="center">
-    <img src="https://github.com/lightdarkmaster/lightdarkmaster/blob/main/assets/images/my_banner.png" alt="Header Banner" />
+    <img src="https://github.com/lightdarkmaster/lightdarkmaster/blob/main/assets/images/my_banner1.png" alt="Header Banner" />
 </p>
 <img align="right" height="250" src="./assets/images/dancing1.gif"  />
-
 - 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan)
 - 🌱 I’m currently learning **Machine Learning, Reactjs, Flutter**
 - 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster](https://github.com/lightdarkmaster)
