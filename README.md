@@ -1,5 +1,5 @@
 <body style="background:black;">
-![logo](./assets/images/my_banner.png)
+![logo](https://github.com/lightdarkmaster/lightdarkmaster/blob/main/assets/images/my_banner.png)
 <h1 align="center">Hi 👋, I'm Christian Barbosa</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 <img align="right" height="250" src="./assets/images/dancing1.gif"  />
