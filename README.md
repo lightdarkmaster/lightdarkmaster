@@ -2,14 +2,14 @@
 <p align="center">
     <img src="https://github.com/lightdarkmaster/lightdarkmaster/blob/main/assets/images/my_banner1.png" alt="Header Banner" />
 </p>
-<img align="right" height="250" src="./assets/images/dancing1.gif"  />
+<img align="right" height="350" src="./assets/images/dancing1.gif"  />
 
 - 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan)
 - 🌱 I’m currently learning **Machine Learning, Reactjs, Flutter**
 - 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster](https://github.com/lightdarkmaster)
 - 📫 How to reach me **christian.barbosa05222001@gmail.com**
 - ⚡ Fun fact **I think I am Funny.**
-<img align="right" height="250" src="./assets/images/dancing.gif"  />
+<!--- <img align="right" height="250" src="./assets/images/dancing.gif"  /> --->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
