@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://github.com/lightdarkmaster/lightdarkmaster/blob/main/assets/images/my_banner1.png" alt="Header Banner" />
 </p>
-<img align="right" height="350" src="./assets/images/boy_dancing.gif"  />
+<img align="right" height="350" src="./assets/images/girl.gif"  />
 
 - 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan),
 [Taskify](https://github.com/lightdarkmaster/Taskify),
