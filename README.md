@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan),
 [Taskify](https://github.com/lightdarkmaster/Taskify),
 [Facebook Dark Chrome Extension](https://github.com/lightdarkmaster/facebookDark_chrome_extension),
-[Artificial-Intelligence](https://github.com/lightdarkmaster/Artificial-Intelligence).
+[AI](https://github.com/lightdarkmaster/Artificial-Intelligence).
 - 🌱 I’m currently learning **Machine Learning, Reactjs, Flutter**
 - 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster](https://github.com/lightdarkmaster)
 - 📫 How to reach me **christian.barbosa05222001@gmail.com**
