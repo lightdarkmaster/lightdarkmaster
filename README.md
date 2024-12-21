@@ -20,7 +20,7 @@
 <a href="https://www.kaggle.com/christianbarbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chanchan0522!" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ChanNotDiff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/@channotdiff/?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/chitchan22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chitchan22" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@christianbarbosa6439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@christianbarbosa6439" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@christianbarbosa6439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@christianbarbosa6439" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
