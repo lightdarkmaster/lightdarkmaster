@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan),
 [Taskify](https://github.com/lightdarkmaster/Taskify),
-[Facebook Dark Chrome Extension](https://github.com/lightdarkmaster/facebookDark_chrome_extension),
-[AI](https://github.com/lightdarkmaster/Artificial-Intelligence).
-- 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster/repogi](https://github.com/lightdarkmaster?tab=repositories)
-- 🌱 I’m currently learning **[Machine Learning](https://developers.google.com/machine-learning/crash-course), [Reactjs](https://react.dev/learn), [Flutter](https://docs.flutter.dev/get-started/learn-flutter) and [Laravel](https://laravel.com/docs/11.x)**
+[Facebook Dark Chrome Extension](https://github.com/lightdarkmaster/facebookDark_chrome_extension) and
+[AI Projects](https://github.com/lightdarkmaster/Artificial-Intelligence).
+- 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster/repogi.](https://github.com/lightdarkmaster?tab=repositories)
+- 🌱 I’m currently learning **[Machine Learning](https://developers.google.com/machine-learning/crash-course), [Reactjs](https://react.dev/learn), [Flutter](https://docs.flutter.dev/get-started/learn-flutter) and [Laravel.](https://laravel.com/docs/11.x)**
 - 📫 How to reach me **christian.barbosa05222001@gmail.com**
-- ⚡ Fun fact **I think I am [Funny](https://dictionary.cambridge.org/us/dictionary/english/funnily-enough) and I Like [Avocado](https://en.wikipedia.org/wiki/Avocado)**
+- ⚡ Fun fact **I think I am [Funny](https://dictionary.cambridge.org/us/dictionary/english/funnily-enough) and I Like [Avocado.](https://en.wikipedia.org/wiki/Avocado)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
