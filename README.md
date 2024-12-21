@@ -1,5 +1,9 @@
 <body style="background:black;">
-![logo](https://github.com/lightdarkmaster/lightdarkmaster/blob/main/assets/images/my_banner.png)
+<h2 align="center">Welcome to my GitHub Profile!</h2>
+<p align="center">
+    <img src="https://github.com/lightdarkmaster/lightdarkmaster/blob/main/assets/images/my_banner.png" alt="Header Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Christian Barbosa</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 <img align="right" height="250" src="./assets/images/dancing1.gif"  />
