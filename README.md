@@ -13,7 +13,7 @@
 [Transparentify](https://github.com/lightdarkmaster/Transparentify),
 [WallFlow](https://github.com/lightdarkmaster/WallFlow) and
 [Potato DCMA](https://github.com/lightdarkmaster/potato_disease_classification_mobile_app).
-- ⚡ Fun fact **Starting projects is my superpower.finishing them is my kryptonite**
+- ⚡ Fun fact :  **Starting projects is my [superpower](https://en.wikipedia.org/wiki/Superpower). finishing them is my [kryptonite](https://en.wikipedia.org/wiki/Kryptonite)**
 - 👨‍💻 All of my projects are available at [https://github.com/lightdarkmaster/repogi.](https://github.com/lightdarkmaster?tab=repositories)
 - 🌱 I’m currently learning **[Machine Learning](https://developers.google.com/machine-learning/crash-course), [Reactjs](https://react.dev/learn), [Flutter](https://docs.flutter.dev/get-started/learn-flutter) and [Laravel.](https://laravel.com/docs/11.x)**
 - 📫 How to reach me **christian.barbosa05222001@gmail.com**
