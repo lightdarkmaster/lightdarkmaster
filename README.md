@@ -5,7 +5,7 @@
 </p>
 <img align="right" height="400" src="./assets/images/dancing1.gif"  />
 
-- 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan),[Clock Extension](https://github.com/lightdarkmaster/clock_extension)
+- 🔭 I’m currently working on [Seedscan](https://github.com/lightdarkmaster/seedscan),[Clock Extension],(https://github.com/lightdarkmaster/clock_extension)
 [Taskify](https://github.com/lightdarkmaster/Taskify),
 [Facebook Dark Chrome Extension](https://github.com/lightdarkmaster/facebookDark_chrome_extension) and
 [AI](https://github.com/lightdarkmaster/Artificial-Intelligence).
